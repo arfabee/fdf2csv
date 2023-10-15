@@ -32,9 +32,7 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 ## License
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
@@ -42,6 +40,6 @@ Thanks to pdftk for the PDF manipulation tool
 
 ## Author
 
-M.A.
-Happy PDF data extraction and CSV generation!
+M.A. 
+😄 Happy PDF data extraction and CSV generation!
 

@@ -26,5 +26,6 @@ This little script allows you to recursively generate FDF files from PDFs and ex
 3. The script will generate FDF files from PDFs in the current directory and extract the field data into a CSV file named all_data.csv.
 
 😄 Happy PDF data extraction and CSV generation!
+
 M.A. 
 
